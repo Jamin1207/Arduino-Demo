@@ -1,4 +1,3 @@
-# MCU Atmega328p with Aruduino
-# Smart Car
-This repository store some video to demo my implementation related Smart Card filed.
+# Arduino (MCU Atmega328P)
+This repository store some video to demo my implementation related Arduino and MCU Atmega328P .
 
